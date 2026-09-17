@@ -81,7 +81,6 @@ CURRENCY_NAME    = "Pakistan rupia"
 PAK_WALLET_LIST   = ["Jazzcash", "Easypiasa"]
 CRYPTO_LIST      = ["USDT TRC20", "USDT BEP20"]
 PAK_PAYMENT_METHODS = PAK_WALLET_LIST + CRYPTO_LIST
-
 PAK_ALLOWED_METHODS = {
     # PAK mobile wallets
     "jazzcash": "Jazzcash",
