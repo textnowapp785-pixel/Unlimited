@@ -80,7 +80,7 @@ CURRENCY_NAME    = "Pakistan rupia"
 #    USDT crypto  : TRC20 (Tron) and BEP20 (BNB Smart Chain)
 PAK_WALLET_LIST   = ["Jazzcash", "Easypiasa"]
 CRYPTO_LIST      = ["USDT TRC20", "USDT BEP20"]
-PAK_PAYMENT_METHODS = pak_WALLET_LIST + CRYPTO_LIST
+PAK_PAYMENT_METHODS = PAK_WALLET_LIST + CRYPTO_LIST
 
 PAK_ALLOWED_METHODS = {
     # PAK mobile wallets
